@@ -1,0 +1,80 @@
+/* ul li {
+    color: blue;
+}
+h1, h2, h3 {
+    font-family: Arial; color:plum ;
+}
+h1{
+    background-color: aquamarine;
+}
+i, b {
+    color: blue;;
+}
+body {
+    background-color: rgb(87, 90, 131); padding: 10px;
+}
+/* color name */
+/* h1 {
+    color: rgb(239, 255, 14);
+} */
+/* hex code */
+/* li {
+    color: rgb(12, 255, 113);
+} */
+/* rgb */
+/* p {
+    color: rgb(255, 166, 0);
+}  */
+
+h1 {
+    background-color: rgba(212, 212, 212, 0.466);
+}
+p { margin: 0px; padding: 0%;
+
+}
+p {
+    background-color: rgb(4, 0, 255);
+}
+.one{
+    background-color: rgba(25, 25, 255, 0.507);
+}
+.two{
+    background-color: rgb(60, 60, 219);
+}
+.three {
+    background-color: rgb(94, 94, 204);
+}
+.four {
+    background-color: rgb(52, 52, 71);
+}
+.five {
+    background-color: rgb(170, 165, 189);
+}
+
+.six {
+    background-color: rgb(220, 224, 233);
+}
+.seven {
+    background-color: green;
+}
+.eight {
+    background-color: rgb(143, 0, 107);
+}
+.nine{
+    background-color: rgb(185, 16, 134);
+}
+.ten {
+    background-color: rgb(255, 37, 219);
+}
+.eleven {
+    background-color: rgb(252, 139, 227);
+}
+.twelth {
+    background-color: rgb(245, 79, 143);
+}
+.thirdteen {
+    background-color: rgb(243, 156, 243);
+}
+.fourteen {
+    background-color: rgb(255, 234, 249);
+}
